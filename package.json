@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shea-butter/fcc-2_portfolio.git"
+    "url": "git+https://github.com/sheafitzek/fcc-2_portfolio.git"
   },
   "author": "Shea Fitzek",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shea-butter/fcc-2_portfolio/issues"
+    "url": "https://github.com/sheafitzek/fcc-2_portfolio/issues"
   },
-  "homepage": "https:///shea-butter.github.io/fcc-2_portfolio",
+  "homepage": "https:///sheafitzek.github.io/fcc-2_portfolio",
   "devDependencies": {
     "gh-pages": "^1.0.0"
   }
